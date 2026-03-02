@@ -6,3 +6,6 @@ this line is for another check
 
 <br>
 new line
+
+<br>
+let's add a new line
